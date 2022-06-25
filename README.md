@@ -1,10 +1,15 @@
 # Stock-Analysis
 Repository address: https://github.com/odellrb/Kickstarter-anaylsis-.git
 ## Overview of Project
+The purpose of the project was to help Steve compile the results of a dozen different stocks over two years.
+Steve wanted to help his parnets with makeing some good choices on stocks that have yielded consistant returns.
+We needed to refactor the code to help the program run quicker when Steve would anylyze a thousand stocks instead of 
+just twelve. The end goal of refactoring the code was to help the program run more efficeintly.
 
 
 ## Results
-
+After refactoring the code, the program runs about 22 milliseconds faster than before. Before refactoring the program would run at 29 millisecond where
+as now it runs on average at 07 milliseconds. The code below gave the processor less work with simplier commands to execute the program.
 
 ![VBA_Speed Box_2017](/Resources/VBA_Challenge_2017.png)
 
@@ -66,4 +71,8 @@ Repository address: https://github.com/odellrb/Kickstarter-anaylsis-.git
     Next i
 
 ## Summary
+The advatages of refactoring code makes the program more oraganized and run more efficeintly and puts less strain on the processor. The disadavantage of refactoring code is that we have to go back in and touch something that already works to begin with. When we go back into code theres always a chance that 
+we will end up fat fingering a few lines of code or spending more time on researching and coming up with ideas how we can stream line our code which can take time when you factoring possible human error and tinkering. 
+
+
 
