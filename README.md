@@ -8,11 +8,16 @@ her launch her play "Fever".
 We had to isolate down to the most successful dates and determine which monetary goals where more realistic 
 than others. Trying to determine proper launch date and the right goal amount were the challenges.
 
-![2017_Speed_box](/Resources/VBA_Challenge_2017.png)
+<p align="left" width="100%">
+    <img width="34%" src=/Resources/VBA_Challenge_2017.png>
+</p>
 
 
-![2018_Speed_box](/Resources/VBA_Challenge_2018.png)
 
+<p align="left" width="100%">
+    <img width="34%" src=/Resources/VBA_Challenge_2018.png>
+</p>
+    
     '1a) Create a ticker Index
           tickerIndex = 0
     
