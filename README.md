@@ -1,12 +1,10 @@
 # Stock-Analysis
 Repository address: https://github.com/odellrb/Kickstarter-anaylsis-.git
 ## Overview of Project
-The purpose of the project was to help Louise understand trends based on launch dates and funding from Kickstarter campaigns, to help 
-her launch her play "Fever".
+
 
 ## Results
-We had to isolate down to the most successful dates and determine which monetary goals where more realistic 
-than others. Trying to determine proper launch date and the right goal amount were the challenges.
+
 
 ![VBA_Speed Box_2017](/Resources/VBA_Challenge_2017.png)
 
