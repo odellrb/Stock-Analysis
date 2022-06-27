@@ -1,5 +1,5 @@
 # Stock-Analysis
-Repository address: https://github.com/odellrb/Kickstarter-anaylsis-.git
+Repository address: https://github.com/odellrb/Stock-Analysis.git
 ## Overview of Project
 The purpose of the project was to help Steve compile the results of a dozen different stocks over two years.
 Steve wanted to help his parnets with makeing some good choices on stocks that have yielded consistant returns.
