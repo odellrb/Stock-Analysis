@@ -1,3 +1,4 @@
+![Stock_analysis_results](/VBA_WallStreet.png)
 # Stock-Analysis
 Repository address: https://github.com/odellrb/Stock-Analysis.git
 ## Overview of Project
